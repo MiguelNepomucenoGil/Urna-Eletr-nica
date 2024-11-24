@@ -5,7 +5,7 @@ Desenvolvimento de uma Interface Gráfica Desktop para a exibição de gráficos
 Integrantes do Grupo: Miguel Nepomuceno Gil - 5196718
 
 
-Lista dos Módulos usados no projeto: 
+## Lista dos Módulos usados no projeto: 
 
 altair==5.3.0
 attrs==23.2.0
